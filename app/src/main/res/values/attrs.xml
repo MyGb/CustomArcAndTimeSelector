@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SeekArcTheme">
+        <attr name="seekArcStyle" format="reference"></attr>
+    </declare-styleable>
+    <declare-styleable name="cooker_SeekArc">
+        <attr name="cooker_thumb" format="reference" />
+        <attr name="cooker_thumbOffset" format="dimension" />
+        <attr name="cooker_max" format="integer" />
+        <attr name="cooker_progressWidth" format="dimension" />
+        <attr name="cooker_arcWidth" format="dimension" />
+        <attr name="cooker_progress" format="integer" />
+        <attr name="cooker_rotation" format="integer" />
+        <attr name="cooker_startAngle" format="integer" />
+        <attr name="cooker_sweepAngle" format="integer" />
+        <attr name="cooker_arcColor" format="color" />
+        <attr name="cooker_progressColor" format="color" />
+        <attr name="cooker_roundEdges" format="boolean" />
+        <attr name="cooker_touchInside" format="boolean" />
+        <attr name="cooker_clockwise" format="boolean" />
+    </declare-styleable>
+</resources>
